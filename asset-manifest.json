@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beyond-imagination-technology/static/css/main.cd3ffaca.css",
+    "main.js": "/beyond-imagination-technology/static/js/main.804944c2.js",
+    "static/js/787.9ff6ce22.chunk.js": "/beyond-imagination-technology/static/js/787.9ff6ce22.chunk.js",
+    "index.html": "/beyond-imagination-technology/index.html",
+    "main.cd3ffaca.css.map": "/beyond-imagination-technology/static/css/main.cd3ffaca.css.map",
+    "main.804944c2.js.map": "/beyond-imagination-technology/static/js/main.804944c2.js.map",
+    "787.9ff6ce22.chunk.js.map": "/beyond-imagination-technology/static/js/787.9ff6ce22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd3ffaca.css",
+    "static/js/main.804944c2.js"
+  ]
+}
