@@ -1,0 +1,49 @@
+nav{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+}
+
+nav .title{
+    align-items: center;
+    padding-left: 25px;
+    float: left;
+    display: flex;
+}
+nav .title .logoName{
+    text-align: right;
+    padding-right: 5px;
+    color: white;
+}
+
+ul{
+    display: flex;
+    padding-right: 30px;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    padding-right: 10px;
+}
+
+.userName{
+    color: white;
+    font-size: 20px;
+    cursor: default;
+    text-transform: uppercase;
+}
+
+.button button{
+    background-color: yellow;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 5px;
+    color: blue;
+    width: 100px;
+    cursor: pointer;
+}
+

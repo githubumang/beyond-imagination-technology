@@ -1,0 +1,31 @@
+.dashboard{
+    /* width: 100vh; */
+    /* height: 100%; */
+    margin: 25px;
+    padding: 25px;
+    background-color: gray;
+    color: white;
+    border-radius: 2%;
+}
+
+.dashboard .heading{
+    /* background-color: white; */
+}
+
+.dashboard .graph{
+    display: flex;
+    padding-top: 20px;
+}
+.graph .graphHeading{
+    width: 10%;
+    padding-top: 5%;
+    font-size: 20px;
+}
+.graph .labels{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.graph .pieChart{
+    height: 250px;
+    width: 250px;
+}
